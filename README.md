@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Aspired Games Developer.</h3>
 

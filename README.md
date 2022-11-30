@@ -12,4 +12,4 @@
 <h3 align="center">(Portfolio Website)</h3> 
 <h3 align="center">(https://konefalpatryk.github.io/myPortfolio/)</h3> 
 <h3 align="center">🔭 I’m currently working on 2 Unity Projects.</h3> 
-<h3 align="center">🌱 I’m currently learning Unreal.</h3> 
+<h3 align="center">🌱 Learning Unreal.</h3> 
